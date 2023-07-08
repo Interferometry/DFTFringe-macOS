@@ -1,6 +1,7 @@
-[![Download DFTFringe](https://github.com/Interferometry/DFTFringe-macOS/blob/main/images/Download-DFTFringe.png)](https://github.com/Interferometry/DFTFringe-macOS/blob/main/download/DFTFringe-6.20-macOS-Universal.zip)
 # DFTFringe-macOS
 A macOS Ventura build of [DFTFringe](https://github.com/githubdoe/DFTFringe), signed and ready to run on Intel or Apple Silicon Macs.
+
+[Download the **DFTFringe-6.20-macOS-Universal.zip** file from this repository, here.](https://github.com/Interferometry/DFTFringe-macOS/tree/main/download)
 
 ## Notes
 ```
