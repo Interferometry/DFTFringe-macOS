@@ -1,7 +1,7 @@
 # DFTFringe-macOS
-A macOS Ventura build of [DFTFringe](https://github.com/githubdoe/DFTFringe), signed and ready to run on Intel or Apple Silicon Macs.
-
 [![Download DFTFringe](https://github.com/Interferometry/DFTFringe-macOS/blob/main/images/Download-DFTFringe.png)](https://github.com/Interferometry/DFTFringe-macOS/blob/main/download/DFTFringe-6.20-macOS-Universal.zip)
+
+A macOS Ventura build of [DFTFringe](https://github.com/githubdoe/DFTFringe), signed and ready to run on Intel or Apple Silicon Macs.
 
 ## Notes
 ```
