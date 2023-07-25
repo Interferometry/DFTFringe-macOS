@@ -1,3 +1,4 @@
+![Screenshot of macOS version of DFTFringe - results tab](https://github.com/Interferometry/DFTFringe-macOS/blob/main/images/DFTFringe-macOS-3-results.png)
 # DFTFringe-macOS
 A macOS Ventura build of [DFTFringe](https://github.com/githubdoe/DFTFringe), signed and ready to run on Intel or Apple Silicon Macs.
 
